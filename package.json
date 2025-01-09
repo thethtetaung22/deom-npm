@@ -1,8 +1,9 @@
 {
   "name": "deom-by-tha",
   "version": "1.0.1",
-  "description": "text",
   "main": "index.js",
+  "description": "React & React-native styled components",
+  "repository": "https://github.com/thethtetaung22/deom-npm.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
